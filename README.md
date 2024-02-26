@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-  **3.** Create the _[top 10 products]_ based on the percentage increase in their net sales_(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%2010%20Products.pdf)_
+  **3.** Create the _[top 10 products]_based on the percentage increase in their net sales(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%2010%20Products.pdf)_
 
   **4.** Products are ranked in the _[top 5 and bottom 5]_ in terms of quantity sold_(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%205%20%26%20Bottom%205.pdf)_
 
