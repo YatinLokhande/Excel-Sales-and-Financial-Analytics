@@ -9,11 +9,11 @@
 
  **3.** Create the _[top 10 products](https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%2010%20Products.pdf)_ based on the percentage increase in their net sales
 
-  **4.** Products are ranked in the _[top 5 and bottom 5]_ in terms of quantity sold_(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%205%20%26%20Bottom%205.pdf)_
+ **4.** Products are ranked in the _[top 5 and bottom 5](https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%205%20%26%20Bottom%205.pdf)_ in terms of quantity sold
 
-  **5.** The _[top 5 countries]_ in terms of net sales in 2021_(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%205%20Countries%20Net%20Sales.pdf)_
+**5.** The _[top 5 countries](https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Top%205%20Countries%20Net%20Sales.pdf)_ in terms of net sales in 2021
 
-**6.**  Generate a _[Division report]_ to present the net sales data for 2020 and 2021, along with the growth percentage_(https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Division%20Level%20Report.pdf)_
+**6.** Generate a _[Division report](https://github.com/YatinLokhande/Excel-Sales-and-Financial-Analytics/blob/main/Division%20Level%20Report.pdf)_ to present the net sales data for 2020 and 2021, along with the growth percentage
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
